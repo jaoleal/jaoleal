@@ -4,7 +4,7 @@ Hi, name's **jão** (according google translate, sounds "jaan"), a Brazilian **S
 
 - ## Tools
 
-  	Talking about what i use to get the job done, at the moment im delving deeper into [**RUST**](https://github.com/rust-lang/rust) trying to use it in every project. I also have some experience with:
+  	Talking about what i use to get the job done, at the moment im delving deeper into [**Rust**](https://github.com/rust-lang/rust) and [**Python**](https://www.python.org/)trying to use it in every project. I also have some experience with:
 	- [Python](https://www.python.org/).
 	- [C](https://en.wikipedia.org/wiki/C_(programming_language)).
 	- [C++](https://en.wikipedia.org/wiki/C%2B%2B).
