@@ -8,7 +8,6 @@ Hi, name's **jão** (according google translate, sounds "jaan"), a Brazilian **S
   	- [**Rust**](https://github.com/rust-lang/rust)
 	- [**YavaScript**](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
    	- [**Nix**](https://nixos.org/manual/nix/stable/)
-	and
   	- [**Python**](https://www.python.org/)
   	
   	  trying to use it in every project. I also have some experience with:
