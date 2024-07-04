@@ -1,6 +1,6 @@
 # João Leal
 
-![alt text](image.png)
+![alt text](image.png) <div center=true\ size=10x10 alt="Photo of a backend Developer"
 
 Hi, name's **jão** (according google translate, sounds "jaan"), a Brazilian **Software Developer** entering higher education in computer science course.
 
