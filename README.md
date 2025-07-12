@@ -1,29 +1,27 @@
-# João Leal
+# Leal (Joao Leal)
 
-![alt text](image.png) <div center=true\ size=10x10 alt="Photo of a cool backend Developer"
+**Open Source Software Developer** with strong interest in decentralized systems, computational efficiency, and self-sovereignty. I discovered these principles while studying and delving into the Bitcoin rabbit hole guided by my friends and coworkers from [Vinteum Organization](https://vinteum.org) and Casa21.
 
-Hi, name's **jão** (according google translate, sounds "jaan"), a Brazilian **Software Developer** entering higher education in computer science course.
+I often change and randomly sign my work and name myself as jaoleal, Joao Leal and even Shigeru Myamoto to avoid script kids, good luck to scrap me!
 
-  ## Da dog doing ...
-  At the moment im delving deeper into
-  	
-  ![Rust](https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png?raw=true)  [**Rust**](https://github.com/rust-lang/rust)
-  
-  ![alt text](image-1.png)  [**Nix**](https://nixos.org/manual/nix/stable/)
-  
-  ![alt text](image-4.png)  [**Python**](https://www.python.org/)
+*"Open source everything"* - All my work is either open source or carries permissive Creative Commons licenses.
 
-  ![alt text](image-3.png) [**Bitcoin**](https://bitcoin.org/en/)
+> If any of these keywords sparked your interest, join our [Discord server](https://discord.gg/vinteum) to connect with me and other developers/advocates.
 
-## My serious stuff
-  
-  My Website: [joaoleal.pro](https://joaoleal.pro/) where i talk what im doing at the moment.
-  
-  You can directly talk with me.
-  My discord: jleall
+## Skills & Technologies
 
-  Very cool and pretty folks: [Vinteum](https://vinteum.org/)
+Here are tools and systems I work with:
 
-  [SoB'2024](https://www.summerofbitcoin.org/) intern at [Floresta](https://github.com/Davidson-Souza/Floresta)
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin">
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix">
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-  >NOTE: My commitment is with Gssus not with this activity overview that keep forgetting my commits
+## links
+- [GitHub](https://github.com/yourusername)
+- [Discord](https://discord.gg/vinteum) (Vinteum/Casa21 community)
