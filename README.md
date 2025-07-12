@@ -23,5 +23,5 @@ Here are tools and systems I work with:
 </p>
 
 ## links
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/jaoleal)
 - [Discord](https://discord.gg/vinteum) (Vinteum/Casa21 community)
