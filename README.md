@@ -1,4 +1,4 @@
-# Leal (Joao Leal)
+# Leal
 
 **Open Source Software Developer** with strong interest in decentralized systems, computational efficiency, and self-sovereignty. I discovered these principles while studying and delving into the Bitcoin rabbit hole guided by my friends and coworkers from [Vinteum Organization](https://vinteum.org) and Casa21.
 
